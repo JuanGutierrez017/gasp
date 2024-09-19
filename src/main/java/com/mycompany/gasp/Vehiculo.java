@@ -26,4 +26,4 @@ public abstract class Vehiculo {
     public String toString() {
         return marca + " " + modelo + " (Vel. maxima: " + velocidadMaxima + " km/h)";
     }
-
+}
