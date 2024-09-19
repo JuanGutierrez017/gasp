@@ -1,0 +1,14 @@
+  GNU nano 8.2                       .gitignore                       Modified
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_ho>
+hs_err_pid*
+replay_pid*
+
+
